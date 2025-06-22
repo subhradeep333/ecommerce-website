@@ -27,4 +27,4 @@ Welcome to **Subhradeep Store**, a responsive and lightweight eCommerce web appl
 ---
 
 ## 📸 Project Preview
-<img src="assets/">
+<img src="assets/ECommerce - Google Chrome 2025-06-22 15-04-23.gif">
